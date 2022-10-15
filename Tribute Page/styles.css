@@ -1,0 +1,64 @@
+body {
+    font-family: BlinkMacSystemFont, Helvetica, Roboto, Arial;
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+section {
+    display: block;
+    margin: auto;
+    text-align: center;
+    max-width: 550px;
+    padding: 10px;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    font-weight: 750;
+}
+
+#img-div {
+    padding: 20px;
+    background-color: #959595;
+}
+
+#image {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+blockquote {
+    padding-bottom: 10px;
+    margin-top: -20px;
+}
+
+.image2 {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+    max-height: 80%;
+    padding-bottom: 40px;
+}
+
+figcaption {
+    padding: 10px;
+
+    text-align: center;
+}
+
+.H1 {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
